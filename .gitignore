@@ -1,0 +1,8 @@
+build/
+debug/
+release/
+Makefile
+Makefile.Debug
+MakeFile.Release
+object_script.HitCoin-qt.Debug
+object_script.HitCoin-qt.Release

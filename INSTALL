@@ -1,0 +1,9 @@
+Building HitCoin
+
+See doc/readme-qt.rst for instructions on building HitCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of HitCoin.
+
+See doc/build-*.txt for instructions on building HitCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of HitCoin.
